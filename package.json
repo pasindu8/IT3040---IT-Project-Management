@@ -1,11 +1,28 @@
 {
   "name": "sliit-itpm",
   "version": "1.0.0",
-  "description": "",
+  "description": "Automated testing suite for SwiftTranslator web application - Singlish to Sinhala translation testing using Playwright",
   "main": "index.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:chromium": "npx playwright test --project=chromium",
+    "test:firefox": "npx playwright test --project=firefox",
+    "test:webkit": "npx playwright test --project=webkit",
+    "test:ui": "npx playwright test --ui",
+    "test:debug": "npx playwright test --debug",
+    "report": "npx playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "testing",
+    "automation",
+    "singlish",
+    "sinhala",
+    "translation",
+    "qa"
+  ],
+  "author": "Vithana O.V.D.P.D (IT23630116)",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {

@@ -1,0 +1,38 @@
+================================================================================
+                    GIT REPOSITORY LINK
+================================================================================
+
+Project: Singlish to Sinhala Translator Automation Project
+Course: IT3040 - IT Project Management (ITPM)
+Assignment: Assignment 01 - Quality Assurance (QA)
+
+================================================================================
+
+REPOSITORY URL:
+https://github.com/pasindu8/IT3040---IT-Project-Management
+
+================================================================================
+
+Student Information:
+- Name: Vithana O.V.D.P.D
+- Student ID: IT23630116
+- Specialization: Information Technology
+- Option Selected: Option 1 (Singlish to Sinhala)
+
+================================================================================
+
+Instructions to Access:
+1. Click the repository URL above or copy and paste it into your browser
+2. The repository is publicly accessible
+3. You can clone the repository using:
+   git clone https://github.com/pasindu8/IT3040---IT-Project-Management.git
+
+================================================================================
+
+Repository Contents:
+- Playwright test scripts for translation testing
+- Playwright configuration files
+- Complete README.md with setup and run instructions
+- All project dependencies in package.json
+
+================================================================================
