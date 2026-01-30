@@ -87,4 +87,9 @@ UI Functionality: Verification of the "Clear" button to ensure it properly reset
 
 ---
 
+## 📊 Test Execution Report
+Here is the summary of the test execution results:
 
+![Playwright Test Report](./screenshots_report.png)
+
+---
